@@ -29,8 +29,7 @@ The goal of this project is to derive meaningful insights from IPL match data an
 
 ## 🔗 Live Dashboard (Tableau Public)
 Click below to view the interactive dashboard:
-
-👉[https://public.tableau.com/views/IPL_Dashboard_17809834738800/IPLCricketDataAnalyticsDashboard2008-2024?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
+[View Interactive Dashboard](https://public.tableau.com/views/IPL_Dashboard_17809834738800/IPLCricketDataAnalyticsDashboard2008-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
