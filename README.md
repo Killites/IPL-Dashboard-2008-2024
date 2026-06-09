@@ -23,7 +23,7 @@ The goal of this project is to derive meaningful insights from IPL match data an
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](ipl_dashboard.png)
+![Dashboard Screenshot](ipl_dashboard_08_24.png)
 
 ---
 
